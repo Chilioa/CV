@@ -1,0 +1,57 @@
+body
+{
+	overflow: scroll;
+}
+
+#box
+{
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+}
+.box1
+{
+	height: 350px;
+	background-color: #EC7E17;
+	display: flex;
+	text-align: center;
+}
+.minibox1
+{
+	width: 75%;
+}
+.minibox2
+{
+	margin-top: 21px;
+}
+.minibox3
+{
+	margin-top: 150px;
+	margin-right: 5%;
+	margin-left: 5%;
+}
+.minibox4
+{
+	margin: auto;
+}
+.minibox5
+{
+	margin-left: 5%;
+}
+.box2
+{
+	background-color: #40E0D0;
+	height: 500px;
+	display: flex;
+}
+
+.box3
+{
+	height: 200px;
+	background-color: #C16713;
+}
+strong
+{
+	background-color: black;
+	color: white;
+}
